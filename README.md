@@ -1,2 +1,2 @@
-# querie_demo
-demonstração de querie
+# querie_pagamento
+construção de querie de pagamento
