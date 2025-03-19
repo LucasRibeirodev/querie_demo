@@ -65,4 +65,4 @@ WHERE
     AND (
         (F.COD_CLI = 182 AND F.COD_CAR IN (7, 8, 9, 10, 11, 12, 13, 14, 15)) -- Apenas 7 a 15 para COD_CLI 182
         OR (F.COD_CLI = 232 AND F.COD_CAR IN (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)) -- Mantém todos para 232
-    )
+    ) 
